@@ -103,3 +103,33 @@ In Home view, all the views button will be available. User will land on specific
 * Executive View
 * Stakeholder Request
 * Support
+
+## Overall Report
+### Home page
+(https://github.com/user-attachments/assets/e056a133-2854-4205-9b31-a38818ab3e24)
+
+### Finance view
+![image](https://github.com/user-attachments/assets/28052901-c489-42f2-a6a9-3c5c2390d00f)
+
+### Sales view
+![Sales](https://github.com/user-attachments/assets/204a30f0-c7e9-4b3f-a01f-183e26ff94ee)
+
+### Marketing view
+![Marketing](https://github.com/user-attachments/assets/75e511f4-3976-4666-82db-0af47307ba49)
+
+### Supply Chain View
+![SCM](https://github.com/user-attachments/assets/b1ada851-de39-446c-8a4c-8a2bfa29cee7)
+
+### Executive view
+![Executive](https://github.com/user-attachments/assets/7b031322-52a1-42d8-aa9b-3f9dd8bd55d3)
+
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+
+
+
+
+
+
+
